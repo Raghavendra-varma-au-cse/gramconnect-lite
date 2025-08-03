@@ -1,0 +1,1251 @@
+{
+  "festivals": [
+    {
+      "id": "diwali-2025",
+      "name": "Diwali",
+      "date": "2025-10-20",
+      "region_tags": ["Pan-India", "North India", "West India"],
+      "description": "Festival of lights celebrating the victory of good over evil",
+      "foods": [
+        {
+          "name": "Gulab Jamun",
+          "short_note": "Sweet deep-fried dumplings soaked in sugar syrup"
+        },
+        {
+          "name": "Samosa",
+          "short_note": "Crispy triangular pastry filled with spiced potatoes"
+        },
+        {
+          "name": "Kaju Katli",
+          "short_note": "Diamond-shaped cashew fudge sweet"
+        },
+        {
+          "name": "Dhokla",
+          "short_note": "Steamed savory cake made from gram flour"
+        },
+        {
+          "name": "Rasgulla",
+          "short_note": "Spongy cottage cheese balls in sugar syrup"
+        }
+      ]
+    },
+    {
+      "id": "ganesh-chaturthi-2025",
+      "name": "Ganesh Chaturthi",
+      "date": "2025-08-29",
+      "region_tags": ["Maharashtra", "Karnataka", "Andhra Pradesh"],
+      "description": "Celebration of Lord Ganesha, the remover of obstacles",
+      "foods": [
+        {
+          "name": "Modak",
+          "short_note": "Steamed rice flour dumplings with jaggery and coconut"
+        },
+        {
+          "name": "Puran Poli",
+          "short_note": "Sweet flatbread stuffed with lentil and jaggery filling"
+        },
+        {
+          "name": "Ukadiche Modak",
+          "short_note": "Traditional steamed modak with ghee and coconut"
+        },
+        {
+          "name": "Karanji",
+          "short_note": "Crescent-shaped fried pastry with coconut-jaggery filling"
+        },
+        {
+          "name": "Rava Laddu",
+          "short_note": "Semolina balls sweetened with sugar and ghee"
+        }
+      ]
+    },
+    {
+      "id": "pongal-2026",
+      "name": "Pongal",
+      "date": "2026-01-14",
+      "region_tags": ["Tamil Nadu", "South India"],
+      "description": "Harvest festival thanking nature and cattle for prosperity",
+      "foods": [
+        {
+          "name": "Sakkarai Pongal",
+          "short_note": "Sweet rice pudding with jaggery and ghee"
+        },
+        {
+          "name": "Ven Pongal",
+          "short_note": "Savory rice dish cooked with moong dal and spices"
+        },
+        {
+          "name": "Vadai",
+          "short_note": "Crispy lentil fritters served with chutney"
+        },
+        {
+          "name": "Payasam",
+          "short_note": "Creamy rice pudding with milk and cardamom"
+        },
+        {
+          "name": "Murukku",
+          "short_note": "Spiral-shaped crispy snack made from rice flour"
+        }
+      ]
+    },
+    {
+      "id": "holi-2026",
+      "name": "Holi",
+      "date": "2026-03-13",
+      "region_tags": ["Pan-India", "North India"],
+      "description": "Festival of colors celebrating spring and love",
+      "foods": [
+        {
+          "name": "Gujiya",
+          "short_note": "Crescent-shaped fried pastry with khoya and nuts"
+        },
+        {
+          "name": "Thandai",
+          "short_note": "Spiced milk drink with almonds and rose petals"
+        },
+        {
+          "name": "Dahi Bhalla",
+          "short_note": "Lentil fritters soaked in spiced yogurt"
+        },
+        {
+          "name": "Puran Poli",
+          "short_note": "Sweet flatbread with lentil and jaggery stuffing"
+        },
+        {
+          "name": "Papri Chaat",
+          "short_note": "Crispy wafers topped with yogurt and chutneys"
+        }
+      ]
+    },
+    {
+      "id": "navratri-2025",
+      "name": "Navratri",
+      "date": "2025-10-02",
+      "region_tags": ["Gujarat", "Rajasthan", "Maharashtra"],
+      "description": "Nine-day festival honoring Goddess Durga with dance and devotion",
+      "foods": [
+        {
+          "name": "Sabudana Khichdi",
+          "short_note": "Tapioca pearls cooked with peanuts and spices"
+        },
+        {
+          "name": "Kuttu Ka Paratha",
+          "short_note": "Buckwheat flour flatbread served during fasting"
+        },
+        {
+          "name": "Aloo Jeera",
+          "short_note": "Cumin-flavored potatoes prepared without onion-garlic"
+        },
+        {
+          "name": "Makhana Kheer",
+          "short_note": "Fox nuts cooked in milk with cardamom and nuts"
+        },
+        {
+          "name": "Singhare Ka Halwa",
+          "short_note": "Water chestnut flour pudding with ghee and sugar"
+        }
+      ]
+    },
+    {
+      "id": "makar-sankranti-2025",
+      "name": "Makar Sankranti",
+      "date": "2025-01-14",
+      "region_tags": ["Pan-India", "North India", "West India"],
+      "description": "Kite festival marking the sun's northward journey",
+      "foods": [
+        {
+          "name": "Til Laddu",
+          "short_note": "Sesame seed balls sweetened with jaggery"
+        },
+        {
+          "name": "Gur Chikki",
+          "short_note": "Jaggery brittle with peanuts or sesame seeds"
+        },
+        {
+          "name": "Khichdi",
+          "short_note": "Comfort dish of rice and lentils cooked together"
+        },
+        {
+          "name": "Undhiyu",
+          "short_note": "Mixed vegetable curry from Gujarat"
+        },
+        {
+          "name": "Puran Poli",
+          "short_note": "Sweet flatbread with lentil and jaggery filling"
+        }
+      ]
+    },
+    {
+      "id": "raksha-bandhan-2025",
+      "name": "Raksha Bandhan",
+      "date": "2025-08-09",
+      "region_tags": ["Pan-India", "North India"],
+      "description": "Festival celebrating the bond between brothers and sisters",
+      "foods": [
+        {
+          "name": "Kachori",
+          "short_note": "Flaky pastry stuffed with spiced lentils"
+        },
+        {
+          "name": "Chole Bhature",
+          "short_note": "Spiced chickpeas with deep-fried bread"
+        },
+        {
+          "name": "Rasgulla",
+          "short_note": "Soft cottage cheese balls in sugar syrup"
+        },
+        {
+          "name": "Namak Pare",
+          "short_note": "Crispy diamond-shaped savory snacks"
+        },
+        {
+          "name": "Ghevar",
+          "short_note": "Honeycomb-like Rajasthani sweet soaked in syrup"
+        }
+      ]
+    },
+    {
+      "id": "eid-al-adha-2025",
+      "name": "Eid al-Adha",
+      "date": "2025-06-07",
+      "region_tags": ["Pan-India", "Muslim Community"],
+      "description": "Festival of sacrifice commemorating Ibrahim's devotion",
+      "foods": [
+        {
+          "name": "Biryani",
+          "short_note": "Fragrant rice dish layered with spiced meat"
+        },
+        {
+          "name": "Kebab",
+          "short_note": "Grilled skewered meat with aromatic spices"
+        },
+        {
+          "name": "Sheer Khurma",
+          "short_note": "Vermicelli pudding with milk, dates, and nuts"
+        },
+        {
+          "name": "Haleem",
+          "short_note": "Slow-cooked stew of meat, lentils, and wheat"
+        },
+        {
+          "name": "Baklava",
+          "short_note": "Layered pastry with nuts and honey syrup"
+        }
+      ]
+    },
+    {
+      "id": "christmas-2025",
+      "name": "Christmas",
+      "date": "2025-12-25",
+      "region_tags": ["Pan-India", "Christian Community"],
+      "description": "Celebration of the birth of Jesus Christ",
+      "foods": [
+        {
+          "name": "Plum Cake",
+          "short_note": "Rich fruit cake soaked in rum and spices"
+        },
+        {
+          "name": "Kulkuls",
+          "short_note": "Goan sweet curls fried and coated in sugar"
+        },
+        {
+          "name": "Wine Cookies",
+          "short_note": "Crispy cookies flavored with wine and spices"
+        },
+        {
+          "name": "Sorpotel",
+          "short_note": "Goan spicy pork curry with vinegar"
+        },
+        {
+          "name": "Rose Cookies",
+          "short_note": "Delicate fried cookies shaped like roses"
+        }
+      ]
+    },
+    {
+      "id": "baisakhi-2026",
+      "name": "Baisakhi",
+      "date": "2026-04-13",
+      "region_tags": ["Punjab", "North India"],
+      "description": "Harvest festival and Sikh New Year celebration",
+      "foods": [
+        {
+          "name": "Makki di Roti",
+          "short_note": "Corn flour flatbread served with mustard greens"
+        },
+        {
+          "name": "Sarson da Saag",
+          "short_note": "Mustard greens curry cooked with spices"
+        },
+        {
+          "name": "Lassi",
+          "short_note": "Churned yogurt drink, sweet or salted"
+        },
+        {
+          "name": "Jalebi",
+          "short_note": "Spiral-shaped sweet soaked in sugar syrup"
+        },
+        {
+          "name": "Chole",
+          "short_note": "Spiced chickpea curry served with bread"
+        }
+      ]
+    },
+    {
+      "id": "durga-puja-2025",
+      "name": "Durga Puja",
+      "date": "2025-10-07",
+      "region_tags": ["West Bengal", "Assam", "Odisha"],
+      "description": "Grand celebration of Goddess Durga's victory over evil",
+      "foods": [
+        {
+          "name": "Khichuri",
+          "short_note": "Bengali-style rice and lentil dish with vegetables"
+        },
+        {
+          "name": "Ilish Maach",
+          "short_note": "Hilsa fish curry cooked in mustard oil"
+        },
+        {
+          "name": "Sandesh",
+          "short_note": "Delicate cottage cheese sweet from Bengal"
+        },
+        {
+          "name": "Luchi",
+          "short_note": "Deep-fried puffed bread made from refined flour"
+        },
+        {
+          "name": "Mishti Doi",
+          "short_note": "Sweet yogurt flavored with jaggery or sugar"
+        }
+      ]
+    },
+    {
+      "id": "karva-chauth-2025",
+      "name": "Karva Chauth",
+      "date": "2025-11-01",
+      "region_tags": ["North India", "Punjab", "Rajasthan"],
+      "description": "Festival where married women fast for their husbands' long life",
+      "foods": [
+        {
+          "name": "Sargi",
+          "short_note": "Pre-dawn meal with fruits, sweets, and mathri"
+        },
+        {
+          "name": "Mathri",
+          "short_note": "Crispy layered crackers made with flour and ghee"
+        },
+        {
+          "name": "Fenni",
+          "short_note": "Delicate vermicelli-like sweet made from milk"
+        },
+        {
+          "name": "Dry Fruits",
+          "short_note": "Assorted nuts and dried fruits for breaking fast"
+        },
+        {
+          "name": "Halwa",
+          "short_note": "Sweet pudding made from semolina or carrots"
+        }
+      ]
+    },
+    {
+      "id": "onam-2025",
+      "name": "Onam",
+      "date": "2025-08-31",
+      "region_tags": ["Kerala", "South India"],
+      "description": "Harvest festival celebrating the return of King Mahabali",
+      "foods": [
+        {
+          "name": "Sadya",
+          "short_note": "Traditional feast served on banana leaf with 20+ dishes"
+        },
+        {
+          "name": "Payasam",
+          "short_note": "Sweet rice pudding with coconut milk and jaggery"
+        },
+        {
+          "name": "Avial",
+          "short_note": "Mixed vegetable curry with coconut and curry leaves"
+        },
+        {
+          "name": "Puttu",
+          "short_note": "Steamed rice cake served with banana and jaggery"
+        },
+        {
+          "name": "Appam",
+          "short_note": "Fermented rice pancakes with soft center"
+        }
+      ]
+    },
+    {
+      "id": "kali-puja-2025",
+      "name": "Kali Puja",
+      "date": "2025-11-01",
+      "region_tags": ["West Bengal", "Assam"],
+      "description": "Worship of Goddess Kali on the new moon night",
+      "foods": [
+        {
+          "name": "Khichuri",
+          "short_note": "Rice and lentil dish offered to Goddess Kali"
+        },
+        {
+          "name": "Labra",
+          "short_note": "Mixed vegetable curry with potatoes and pumpkin"
+        },
+        {
+          "name": "Begun Bhaja",
+          "short_note": "Crispy fried eggplant slices"
+        },
+        {
+          "name": "Posto",
+          "short_note": "Poppy seed curry with vegetables"
+        },
+        {
+          "name": "Narkel Naru",
+          "short_note": "Coconut balls sweetened with jaggery"
+        }
+      ]
+    },
+    {
+      "id": "guru-nanak-jayanti-2025",
+      "name": "Guru Nanak Jayanti",
+      "date": "2025-11-15",
+      "region_tags": ["Punjab", "Pan-India", "Sikh Community"],
+      "description": "Birth anniversary of Guru Nanak, founder of Sikhism",
+      "foods": [
+        {
+          "name": "Karah Prasad",
+          "short_note": "Sacred sweet pudding made from flour, ghee, and sugar"
+        },
+        {
+          "name": "Langar",
+          "short_note": "Community meal served free to all visitors"
+        },
+        {
+          "name": "Rajma Chawal",
+          "short_note": "Kidney bean curry served with rice"
+        },
+        {
+          "name": "Chole Kulche",
+          "short_note": "Spiced chickpeas with soft leavened bread"
+        },
+        {
+          "name": "Kheer",
+          "short_note": "Rice pudding flavored with cardamom and almonds"
+        }
+      ]
+    },
+    {
+      "id": "teej-2025",
+      "name": "Hartalika Teej",
+      "date": "2025-08-30",
+      "region_tags": ["Rajasthan", "Uttar Pradesh", "Bihar"],
+      "description": "Festival celebrated by women for marital bliss and prosperity",
+      "foods": [
+        {
+          "name": "Ghevar",
+          "short_note": "Honeycomb-textured Rajasthani sweet soaked in syrup"
+        },
+        {
+          "name": "Feeni",
+          "short_note": "Thread-like sweet made from milk and sugar"
+        },
+        {
+          "name": "Malpua",
+          "short_note": "Sweet pancakes fried and soaked in sugar syrup"
+        },
+        {
+          "name": "Khajur",
+          "short_note": "Layered sweet pastry filled with dry fruits"
+        },
+        {
+          "name": "Gujiya",
+          "short_note": "Crescent-shaped pastry filled with khoya and nuts"
+        }
+      ]
+    },
+    {
+      "id": "dussehra-2025",
+      "name": "Dussehra",
+      "date": "2025-10-22",
+      "region_tags": ["Pan-India", "North India"],
+      "description": "Victory of Lord Rama over Ravana, triumph of good over evil",
+      "foods": [
+        {
+          "name": "Jalebi",
+          "short_note": "Spiral-shaped sweet soaked in sugar syrup"
+        },
+        {
+          "name": "Samosa",
+          "short_note": "Triangular pastry filled with spiced potatoes"
+        },
+        {
+          "name": "Kachori",
+          "short_note": "Flaky pastry stuffed with spiced lentils"
+        },
+        {
+          "name": "Aloo Tikki",
+          "short_note": "Spiced potato patties served with chutneys"
+        },
+        {
+          "name": "Rasmalai",
+          "short_note": "Cottage cheese dumplings in flavored milk"
+        }
+      ]
+    },
+    {
+      "id": "ugadi-2026",
+      "name": "Ugadi",
+      "date": "2026-03-22",
+      "region_tags": ["Andhra Pradesh", "Telangana", "Karnataka"],
+      "description": "Telugu and Kannada New Year marking the beginning of spring",
+      "foods": [
+        {
+          "name": "Ugadi Pachadi",
+          "short_note": "Six-taste chutney symbolizing life's experiences"
+        },
+        {
+          "name": "Puliogare",
+          "short_note": "Tangy tamarind rice with spices and nuts"
+        },
+        {
+          "name": "Bobbatlu",
+          "short_note": "Sweet flatbread stuffed with jaggery and lentils"
+        },
+        {
+          "name": "Pesarattu",
+          "short_note": "Green gram dosa served with ginger chutney"
+        },
+        {
+          "name": "Payasam",
+          "short_note": "Sweet pudding made with vermicelli and milk"
+        }
+      ]
+    },
+    {
+      "id": "gudi-padwa-2026",
+      "name": "Gudi Padwa",
+      "date": "2026-03-22",
+      "region_tags": ["Maharashtra", "Goa"],
+      "description": "Marathi New Year celebrating the arrival of spring",
+      "foods": [
+        {
+          "name": "Puran Poli",
+          "short_note": "Sweet flatbread with jaggery and chana dal filling"
+        },
+        {
+          "name": "Shrikhand",
+          "short_note": "Sweetened strained yogurt flavored with cardamom"
+        },
+        {
+          "name": "Aamras",
+          "short_note": "Sweet mango pulp eaten with puris"
+        },
+        {
+          "name": "Poha",
+          "short_note": "Flattened rice cooked with onions and spices"
+        },
+        {
+          "name": "Solkadhi",
+          "short_note": "Refreshing drink made from kokum and coconut milk"
+        }
+      ]
+    },
+    {
+      "id": "bihu-2026",
+      "name": "Bohag Bihu",
+      "date": "2026-04-14",
+      "region_tags": ["Assam", "Northeast India"],
+      "description": "Assamese New Year and spring festival",
+      "foods": [
+        {
+          "name": "Pitha",
+          "short_note": "Traditional rice cakes with coconut and jaggery"
+        },
+        {
+          "name": "Larus",
+          "short_note": "Sweet rice balls made during Bihu"
+        },
+        {
+          "name": "Masor Tenga",
+          "short_note": "Sour fish curry with tomatoes and herbs"
+        },
+        {
+          "name": "Khar",
+          "short_note": "Traditional alkaline curry with raw papaya"
+        },
+        {
+          "name": "Doi Chira",
+          "short_note": "Flattened rice with yogurt and jaggery"
+        }
+      ]
+    },
+    {
+      "id": "vishu-2026",
+      "name": "Vishu",
+      "date": "2026-04-14",
+      "region_tags": ["Kerala", "South India"],
+      "description": "Malayalam New Year celebrating prosperity and abundance",
+      "foods": [
+        {
+          "name": "Vishu Sadya",
+          "short_note": "Traditional feast with seasonal vegetables"
+        },
+        {
+          "name": "Vishu Kanji",
+          "short_note": "Rice porridge cooked with coconut milk"
+        },
+        {
+          "name": "Mambazha Pulissery",
+          "short_note": "Raw mango curry with yogurt and coconut"
+        },
+        {
+          "name": "Thoran",
+          "short_note": "Dry vegetable dish with grated coconut"
+        },
+        {
+          "name": "Ada Pradhaman",
+          "short_note": "Sweet pudding made with rice flakes and jaggery"
+        }
+      ]
+    },
+    {
+      "id": "eid-ul-fitr-2025",
+      "name": "Eid ul-Fitr",
+      "date": "2025-03-31",
+      "region_tags": ["Pan-India", "Muslim Community"],
+      "description": "Festival marking the end of Ramadan fasting month",
+      "foods": [
+        {
+          "name": "Seviyan",
+          "short_note": "Sweet vermicelli pudding with milk and dates"
+        },
+        {
+          "name": "Biryani",
+          "short_note": "Aromatic rice dish with meat and fragrant spices"
+        },
+        {
+          "name": "Kebab",
+          "short_note": "Grilled meat skewers with herbs and spices"
+        },
+        {
+          "name": "Mutton Korma",
+          "short_note": "Rich curry with tender meat in creamy sauce"
+        },
+        {
+          "name": "Baklava",
+          "short_note": "Layered pastry with nuts and sweet syrup"
+        }
+      ]
+    },
+    {
+      "id": "buddha-purnima-2025",
+      "name": "Buddha Purnima",
+      "date": "2025-05-12",
+      "region_tags": ["Pan-India", "Buddhist Community"],
+      "description": "Birth anniversary of Lord Buddha",
+      "foods": [
+        {
+          "name": "Kheer",
+          "short_note": "Rice pudding offered at Buddhist temples"
+        },
+        {
+          "name": "Fruits",
+          "short_note": "Fresh seasonal fruits offered as prasad"
+        },
+        {
+          "name": "Vegetarian Thali",
+          "short_note": "Complete vegetarian meal following Buddhist principles"
+        },
+        {
+          "name": "Momos",
+          "short_note": "Steamed dumplings popular in Buddhist regions"
+        },
+        {
+          "name": "Thukpa",
+          "short_note": "Hearty noodle soup from Himalayan regions"
+        }
+      ]
+    },
+    {
+      "id": "janmashtami-2025",
+      "name": "Krishna Janmashtami",
+      "date": "2025-08-16",
+      "region_tags": ["Pan-India", "North India", "Maharashtra"],
+      "description": "Birth celebration of Lord Krishna",
+      "foods": [
+        {
+          "name": "Makhan Mishri",
+          "short_note": "Butter and rock sugar, Krishna's favorite"
+        },
+        {
+          "name": "Panjiri",
+          "short_note": "Nutritious sweet made with wheat flour and ghee"
+        },
+        {
+          "name": "Dahi Handi",
+          "short_note": "Yogurt and rice flakes mixed together"
+        },
+        {
+          "name": "Kheer",
+          "short_note": "Rice pudding flavored with cardamom"
+        },
+        {
+          "name": "Mathura ke Pede",
+          "short_note": "Milk sweets from Krishna's birthplace"
+        }
+      ]
+    },
+    {
+      "id": "kojagari-purnima-2025",
+      "name": "Kojagari Purnima",
+      "date": "2025-10-17",
+      "region_tags": ["West Bengal", "Odisha"],
+      "description": "Full moon night dedicated to Goddess Lakshmi",
+      "foods": [
+        {
+          "name": "Narkel Payesh",
+          "short_note": "Coconut rice pudding cooked in milk"
+        },
+        {
+          "name": "Khejur Gud",
+          "short_note": "Date palm jaggery sweets"
+        },
+        {
+          "name": "Sandesh",
+          "short_note": "Cottage cheese sweets in various flavors"
+        },
+        {
+          "name": "Rasgulla",
+          "short_note": "Spongy cheese balls in sugar syrup"
+        },
+        {
+          "name": "Mishti Doi",
+          "short_note": "Sweet yogurt set with jaggery"
+        }
+      ]
+    },
+    {
+      "id": "maha-shivratri-2026",
+      "name": "Maha Shivratri",
+      "date": "2026-02-17",
+      "region_tags": ["Pan-India", "North India"],
+      "description": "Night dedicated to Lord Shiva with fasting and prayers",
+      "foods": [
+        {
+          "name": "Thandai",
+          "short_note": "Spiced milk drink with almonds and rose petals"
+        },
+        {
+          "name": "Fruits",
+          "short_note": "Fresh fruits offered during fasting"
+        },
+        {
+          "name": "Bhang",
+          "short_note": "Traditional cannabis-infused drink (where legal)"
+        },
+        {
+          "name": "Dry Fruits",
+          "short_note": "Assorted nuts eaten during fast"
+        },
+        {
+          "name": "Sabudana Khichdi",
+          "short_note": "Tapioca pearls cooked with peanuts for fasting"
+        }
+      ]
+    },
+    {
+      "id": "ram-navami-2026",
+      "name": "Ram Navami",
+      "date": "2026-04-06",
+      "region_tags": ["Pan-India", "North India"],
+      "description": "Birth celebration of Lord Rama",
+      "foods": [
+        {
+          "name": "Panakam",
+          "short_note": "Sweet drink made with jaggery and spices"
+        },
+        {
+          "name": "Kosambari",
+          "short_note": "Moong dal salad with cucumber and coconut"
+        },
+        {
+          "name": "Payasam",
+          "short_note": "Sweet rice pudding offered as prasadam"
+        },
+        {
+          "name": "Sundal",
+          "short_note": "Steamed chickpeas seasoned with spices"
+        },
+        {
+          "name": "Vadai",
+          "short_note": "Lentil fritters served during the festival"
+        }
+      ]
+    },
+    {
+      "id": "akshaya-tritiya-2026",
+      "name": "Akshaya Tritiya",
+      "date": "2026-04-28",
+      "region_tags": ["Pan-India", "North India", "West India"],
+      "description": "Auspicious day for new beginnings and prosperity",
+      "foods": [
+        {
+          "name": "Pana",
+          "short_note": "Sweet drink made with jaggery and spices"
+        },
+        {
+          "name": "Malpua",
+          "short_note": "Sweet pancakes fried and soaked in syrup"
+        },
+        {
+          "name": "Kheer",
+          "short_note": "Rice pudding flavored with cardamom"
+        },
+        {
+          "name": "Coconut Laddu",
+          "short_note": "Sweet balls made with coconut and jaggery"
+        },
+        {
+          "name": "Jalebi",
+          "short_note": "Spiral-shaped sweet soaked in sugar syrup"
+        }
+      ]
+    },
+    {
+      "id": "hanuman-jayanti-2026",
+      "name": "Hanuman Jayanti",
+      "date": "2026-04-15",
+      "region_tags": ["Pan-India", "North India"],
+      "description": "Birth anniversary of Lord Hanuman",
+      "foods": [
+        {
+          "name": "Besan Laddu",
+          "short_note": "Gram flour balls sweetened with jaggery"
+        },
+        {
+          "name": "Chana Dal",
+          "short_note": "Split chickpeas curry offered as prasadam"
+        },
+        {
+          "name": "Sindoor Tilak Prasad",
+          "short_note": "Sacred offering with vermillion"
+        },
+        {
+          "name": "Panchamrit",
+          "short_note": "Five-ingredient sacred mixture"
+        },
+        {
+          "name": "Tulsi Tea",
+          "short_note": "Holy basil tea for purification"
+        }
+      ]
+    },
+    {
+      "id": "rath-yatra-2026",
+      "name": "Jagannath Rath Yatra",
+      "date": "2026-06-23",
+      "region_tags": ["Odisha", "East India"],
+      "description": "Chariot festival of Lord Jagannath",
+      "foods": [
+        {
+          "name": "Mahaprasad",
+          "short_note": "Sacred food offered to Lord Jagannath"
+        },
+        {
+          "name": "Khechedi",
+          "short_note": "Rice and lentil dish cooked in ghee"
+        },
+        {
+          "name": "Rasagola",
+          "short_note": "Odia version of cottage cheese balls in syrup"
+        },
+        {
+          "name": "Chhena Poda",
+          "short_note": "Baked cottage cheese cake from Odisha"
+        },
+        {
+          "name": "Dalma",
+          "short_note": "Lentil curry with vegetables"
+        }
+      ]
+    },
+    {
+      "id": "guru-purnima-2026",
+      "name": "Guru Purnima",
+      "date": "2026-07-13",
+      "region_tags": ["Pan-India", "North India"],
+      "description": "Full moon day honoring spiritual teachers",
+      "foods": [
+        {
+          "name": "Kheer",
+          "short_note": "Rice pudding offered to gurus"
+        },
+        {
+          "name": "Laddu",
+          "short_note": "Sweet balls made from various ingredients"
+        },
+        {
+          "name": "Fruits",
+          "short_note": "Fresh seasonal fruits as offerings"
+        },
+        {
+          "name": "Mishri",
+          "short_note": "Rock sugar offered as prasadam"
+        },
+        {
+          "name": "Panchamrit",
+          "short_note": "Sacred mixture of milk, curd, ghee, honey, sugar"
+        }
+      ]
+    },
+    {
+      "id": "nag-panchami-2026",
+      "name": "Nag Panchami",
+      "date": "2026-07-30",
+      "region_tags": ["Pan-India", "Maharashtra", "Karnataka"],
+      "description": "Festival dedicated to serpent worship",
+      "foods": [
+        {
+          "name": "Milk",
+          "short_note": "Pure milk offered to snake deities"
+        },
+        {
+          "name": "Kheer",
+          "short_note": "Rice pudding made with milk"
+        },
+        {
+          "name": "Coconut",
+          "short_note": "Fresh coconut offered during prayers"
+        },
+        {
+          "name": "Banana",
+          "short_note": "Fresh bananas as sacred offerings"
+        },
+        {
+          "name": "Modak",
+          "short_note": "Steamed rice dumplings with jaggery filling"
+        }
+      ]
+    },
+    {
+      "id": "rakhi-2026",
+      "name": "Raksha Bandhan",
+      "date": "2026-08-28",
+      "region_tags": ["Pan-India", "North India"],
+      "description": "Festival celebrating sibling bond",
+      "foods": [
+        {
+          "name": "Kachori",
+          "short_note": "Flaky pastry stuffed with spiced lentils"
+        },
+        {
+          "name": "Rasgulla",
+          "short_note": "Soft cottage cheese balls in sugar syrup"
+        },
+        {
+          "name": "Dry Fruits",
+          "short_note": "Assorted nuts and dried fruits"
+        },
+        {
+          "name": "Chocolate",
+          "short_note": "Modern addition loved by siblings"
+        },
+        {
+          "name": "Ghevar",
+          "short_note": "Rajasthani honeycomb sweet"
+        }
+      ]
+    },
+    {
+      "id": "gowri-ganesha-2026",
+      "name": "Gowri Ganesha",
+      "date": "2026-08-22",
+      "region_tags": ["Karnataka", "South India"],
+      "description": "Worship of Goddess Gowri and Lord Ganesha",
+      "foods": [
+        {
+          "name": "Modak",
+          "short_note": "Lord Ganesha's favorite steamed dumplings"
+        },
+        {
+          "name": "Holige",
+          "short_note": "Sweet flatbread with jaggery and lentil filling"
+        },
+        {
+          "name": "Payasa",
+          "short_note": "South Indian sweet pudding"
+        },
+        {
+          "name": "Coconut Rice",
+          "short_note": "Rice cooked with coconut and spices"
+        },
+        {
+          "name": "Mysore Pak",
+          "short_note": "Rich sweet made from gram flour and ghee"
+        }
+      ]
+    },
+    {
+      "id": "karvachauth-2026",
+      "name": "Karva Chauth",
+      "date": "2026-10-20",
+      "region_tags": ["North India", "Punjab", "Rajasthan"],
+      "description": "Married women's fast for husband's longevity",
+      "foods": [
+        {
+          "name": "Sargi",
+          "short_note": "Pre-dawn meal prepared by mother-in-law"
+        },
+        {
+          "name": "Mathri",
+          "short_note": "Crispy layered crackers"
+        },
+        {
+          "name": "Fenni",
+          "short_note": "Thread-like sweet made from milk"
+        },
+        {
+          "name": "Coconut",
+          "short_note": "Fresh coconut for breaking fast"
+        },
+        {
+          "name": "Almonds",
+          "short_note": "Soaked almonds eaten during Sargi"
+        }
+      ]
+    },
+    {
+      "id": "dhanteras-2026",
+      "name": "Dhanteras",
+      "date": "2026-11-09",
+      "region_tags": ["Pan-India", "North India"],
+      "description": "First day of Diwali celebrating wealth and prosperity",
+      "foods": [
+        {
+          "name": "Halwa",
+          "short_note": "Sweet pudding made from semolina or carrots"
+        },
+        {
+          "name": "Kheer",
+          "short_note": "Rice pudding flavored with cardamom"
+        },
+        {
+          "name": "Dry Fruits",
+          "short_note": "Assorted nuts symbolizing prosperity"
+        },
+        {
+          "name": "Coconut Laddu",
+          "short_note": "Sweet coconut balls"
+        },
+        {
+          "name": "Jaggery Sweets",
+          "short_note": "Traditional sweets made with jaggery"
+        }
+      ]
+    },
+    {
+      "id": "diwali-2026",
+      "name": "Diwali",
+      "date": "2026-11-11",
+      "region_tags": ["Pan-India", "North India", "West India"],
+      "description": "Festival of lights celebrating victory of good over evil",
+      "foods": [
+        {
+          "name": "Gulab Jamun",
+          "short_note": "Sweet deep-fried dumplings in sugar syrup"
+        },
+        {
+          "name": "Kaju Katli",
+          "short_note": "Diamond-shaped cashew fudge"
+        },
+        {
+          "name": "Samosa",
+          "short_note": "Crispy triangular pastry with spiced filling"
+        },
+        {
+          "name": "Chakli",
+          "short_note": "Spiral-shaped savory snack"
+        },
+        {
+          "name": "Besan Laddu",
+          "short_note": "Gram flour balls sweetened with jaggery"
+        }
+      ]
+    },
+    {
+      "id": "bhai-dooj-2026",
+      "name": "Bhai Dooj",
+      "date": "2026-11-13",
+      "region_tags": ["Pan-India", "North India"],
+      "description": "Festival celebrating brother-sister bond",
+      "foods": [
+        {
+          "name": "Kachori",
+          "short_note": "Flaky pastry with spiced lentil filling"
+        },
+        {
+          "name": "Aloo Tikki",
+          "short_note": "Spiced potato patties"
+        },
+        {
+          "name": "Sweets",
+          "short_note": "Various traditional Indian sweets"
+        },
+        {
+          "name": "Poha",
+          "short_note": "Flattened rice cooked with spices"
+        },
+        {
+          "name": "Halwa",
+          "short_note": "Sweet pudding made from various ingredients"
+        }
+      ]
+    },
+    {
+      "id": "tulsi-vivah-2026",
+      "name": "Tulsi Vivah",
+      "date": "2026-11-26",
+      "region_tags": ["Pan-India", "North India"],
+      "description": "Ceremonial marriage of Tulsi plant with Lord Vishnu",
+      "foods": [
+        {
+          "name": "Kheer",
+          "short_note": "Rice pudding offered to Tulsi plant"
+        },
+        {
+          "name": "Tulsi Tea",
+          "short_note": "Holy basil tea for purification"
+        },
+        {
+          "name": "Prasadam",
+          "short_note": "Sacred food offerings"
+        },
+        {
+          "name": "Fruits",
+          "short_note": "Fresh seasonal fruits"
+        },
+        {
+          "name": "Panchamrit",
+          "short_note": "Five-ingredient sacred mixture"
+        }
+      ]
+    },
+    {
+      "id": "christmas-2026",
+      "name": "Christmas",
+      "date": "2026-12-25",
+      "region_tags": ["Pan-India", "Christian Community"],
+      "description": "Celebration of the birth of Jesus Christ",
+      "foods": [
+        {
+          "name": "Plum Cake",
+          "short_note": "Traditional Christmas fruit cake"
+        },
+        {
+          "name": "Wine Cookies",
+          "short_note": "Crispy cookies flavored with wine"
+        },
+        {
+          "name": "Kulkuls",
+          "short_note": "Goan sweet curls fried in oil"
+        },
+        {
+          "name": "Turkey",
+          "short_note": "Roasted turkey for Christmas dinner"
+        },
+        {
+          "name": "Marzipan",
+          "short_note": "Almond-based confectionery"
+        }
+      ]
+    },
+    {
+      "id": "thai-pusam-2026",
+      "name": "Thai Pusam",
+      "date": "2026-01-31",
+      "region_tags": ["Tamil Nadu", "South India"],
+      "description": "Tamil festival honoring Lord Murugan",
+      "foods": [
+        {
+          "name": "Pongal",
+          "short_note": "Sweet rice dish cooked with jaggery"
+        },
+        {
+          "name": "Payasam",
+          "short_note": "Creamy sweet pudding"
+        },
+        {
+          "name": "Vadai",
+          "short_note": "Lentil fritters served with chutney"
+        },
+        {
+          "name": "Coconut Rice",
+          "short_note": "Rice cooked with coconut and curry leaves"
+        },
+        {
+          "name": "Banana Halwa",
+          "short_note": "Sweet pudding made from ripe bananas"
+        }
+      ]
+    },
+    {
+      "id": "vasant-panchami-2026",
+      "name": "Vasant Panchami",
+      "date": "2026-01-24",
+      "region_tags": ["Pan-India", "North India"],
+      "description": "Spring festival dedicated to Goddess Saraswati",
+      "foods": [
+        {
+          "name": "Kesar Halwa",
+          "short_note": "Saffron-flavored sweet pudding"
+        },
+        {
+          "name": "Boondi Laddu",
+          "short_note": "Sweet balls made from gram flour pearls"
+        },
+        {
+          "name": "Yellow Rice",
+          "short_note": "Turmeric-colored rice offered to Saraswati"
+        },
+        {
+          "name": "Kesari Bath",
+          "short_note": "Saffron-flavored semolina dessert"
+        },
+        {
+          "name": "Mishti Doi",
+          "short_note": "Sweet yogurt colored with saffron"
+        }
+      ]
+    },
+    {
+      "id": "magh-bihu-2026",
+      "name": "Magh Bihu",
+      "date": "2026-01-15",
+      "region_tags": ["Assam", "Northeast India"],
+      "description": "Assamese harvest festival marking the end of harvesting",
+      "foods": [
+        {
+          "name": "Til Pitha",
+          "short_note": "Sesame seed rice cakes"
+        },
+        {
+          "name": "Larus",
+          "short_note": "Sweet rice balls with coconut"
+        },
+        {
+          "name": "Sunga Chaul",
+          "short_note": "Rice cooked in bamboo tubes"
+        },
+        {
+          "name": "Chira",
+          "short_note": "Flattened rice with jaggery"
+        },
+        {
+          "name": "Duck Curry",
+          "short_note": "Traditional Assamese duck preparation"
+        }
+      ]
+    }
+  ]
+}
